@@ -1,4 +1,3 @@
 # AcroamaticA
- - She/Her
  - Hobbyist
- - Primarily uses C++
+ - Primarily uses Rust
